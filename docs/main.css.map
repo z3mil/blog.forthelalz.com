@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/Z3mil/git/git_projects/dev-562346783.forthelalz.com",
+	"sourceRoot": "/Users/Z3mil/git/git_projects/dev.forthelalz.com",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
