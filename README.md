@@ -1,4 +1,5 @@
 # blog.forthelalz.com
-![Blog build status](https://github.com/z3mil/blog.forthelalz.com/actions/workflows/pages-build-deployment/badge.svg)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/z3mil/blog.forthelalz.com/main)
+
 A blog about cyber security and life. coming. soonish.
 
